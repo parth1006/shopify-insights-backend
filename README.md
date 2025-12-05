@@ -1063,37 +1063,7 @@ This project is created for educational purposes as part of a placement assignme
 
 ## 👨‍💻 Author
 
-**Parth Maheshwari**
-
-- Email: parthmaheshwari4384@gmail.com
-- GitHub: [@parth1006](https://github.com/parth1006)
-- LinkedIn: [Your LinkedIn]
-
----
-
-## 🙏 Acknowledgments
-
-- [Shopify Admin API Documentation](https://shopify.dev/docs/api/admin-rest)
-- [Prisma Documentation](https://www.prisma.io/docs/)
-- [Express.js Documentation](https://expressjs.com/)
-- Assignment by: **Xeno**
-
----
-
-## 📞 Support
-
-For issues or questions:
-- GitHub Issues: [Report Bug](https://github.com/parth1006/shopify-insights-backend/issues)
-- Email: parthmaheshwari4384@gmail.com
-
----
-
-## 📈 Changelog
-
-### Version 1.0.0 (December 2025)
-- Initial release
-- Multi-tenant architecture
-- Shopify data ingestion
-- Analytics endpoints
-- JWT authentication
-- Deployment on Render
+**Parth Maheshwari**  
+📧 Email: parthmaheshwari4384@gmail.com  
+🐙 GitHub: https://github.com/parth1006  
+🔗 LinkedIn: https://www.linkedin.com/in/parth1006/
